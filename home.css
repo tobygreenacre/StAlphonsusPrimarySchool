@@ -1,0 +1,46 @@
+body{
+    border: 3px solid rgb(13, 9, 91);
+    font-family: sans-serif;
+}
+header {
+    padding: 1px;
+    background-color: rgb(13, 9, 91);
+    margin-bottom: 20px;
+}
+h1 {
+    color: white;
+    border: none;
+    text-align: center;
+    padding: 5px;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    color: rgb(13, 9, 91);
+    font-family: sans-serif;
+    font-size: 28px;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+.add{
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    background-color: rgb(13, 9, 91);
+    color: white;
+    border: none;
+    margin: 10px;
+}
+.view{
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    background-color: white;
+    color: rgb(13, 9, 91);
+    border: 3px solid rgb(13, 9, 91);
+    margin: 10px;
+}

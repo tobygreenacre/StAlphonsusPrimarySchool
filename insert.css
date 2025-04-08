@@ -1,0 +1,52 @@
+body{
+    border: 3px solid rgb(13, 9, 91);
+    height: 95vh;
+    font-family: sans-serif;
+}
+header {
+    padding: 1px;
+    background-color: rgb(13, 9, 91);
+    margin-bottom: 20px;
+}
+h1 {
+    color: white;
+    border: none;
+    text-align: center;
+    padding: 5px;
+    font-family: sans-serif;
+}
+h2 {
+    color: rgb(13, 9, 91);
+    border: none;
+    text-align: center;
+    padding: 5px;
+    font-family: sans-serif;
+}
+div{
+    display: grid;
+    justify-content: center;
+    padding: 20px;
+}
+button{
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    background-color: rgb(13, 9, 91);
+    color: white;
+    border-color: white;
+    border-radius: 13px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+form{
+    display: grid;
+}
+input{
+    font-size: 15px;
+}
+select{
+    font-size: 150px;
+}
+label{
+    font-family: sans-serif;
+}

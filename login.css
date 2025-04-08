@@ -1,0 +1,27 @@
+body{
+    border: 3px solid rgb(13, 9, 91);
+    height: 95vh;
+    font-family: sans-serif;
+}
+header {
+    padding: 1px;
+    background-color: rgb(13, 9, 91);
+    margin-bottom: 20px;
+}
+h1 {
+    color: white;
+    border: none;
+    text-align: center;
+    padding: 5px;
+    font-family: sans-serif;
+}
+.denied{
+    font-family: sans-serif;
+    text-align: center;
+}
+.denied h1{
+    color: red;
+}
+.denied p{
+    font-size: 20px;
+}
